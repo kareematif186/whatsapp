@@ -12,7 +12,7 @@ Flutter
 2-Colored icons then u do not have to deal with old boring  WhatsApp user interface
 
 
-3-Have the ability to interact with mo salah and CR7 :)
+3-Has the ability to interact with mo salah and CR7 :)
 
 
 
