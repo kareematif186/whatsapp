@@ -6,14 +6,15 @@ Flutter
 
 # Advantages
 
-1-Supports dark mode which i can not understand why real whtatsapp do not suuport it 
+1-Supports dark mode which I can not understand why real Whatsapp do not support it
 
 
+2-Colored icons then u do not have to deal with boring WhatsApp user interface
 
-2-Colored icons then u do not have to deal with boring whatsapp user intreface
+
+3-Have the ability to interact with mo salah and CR7 :)
 
 
-3-Have the ability to interact with mo salah and CR7 :) 
 
 
 
