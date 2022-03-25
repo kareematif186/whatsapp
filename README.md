@@ -1,12 +1,25 @@
 # Whatsapp
 
-A new Flutter application.
-
-## Getting Started
-
 Dart
 
 Flutter
+
+# Advantages
+
+1-Supports dark mode which i can not understand why real whtatsapp do not suuport it 
+
+
+
+2-Colored icons then u do not have to deal with boring whatsapp user intreface
+
+
+3-Have the ability to interact with mo salah and CR7 :) 
+
+
+
+### The app
+
+
 
 
 
