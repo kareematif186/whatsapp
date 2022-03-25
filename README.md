@@ -9,12 +9,17 @@ Flutter
 1-Supports dark mode which I can not understand why real Whatsapp does not support it
 
 
-2-Colored icons then u do not have to deal with boring WhatsApp user interface
+2-Colored icons then u do not have to deal with old boring  WhatsApp user interface
 
 
 3-Have the ability to interact with mo salah and CR7 :)
 
 
+
+
+# Disadvantages
+
+Not in google play store :(
 
 
 
